@@ -27,7 +27,7 @@ services:
       - key: JWT_SECRET_KEY
         generateValue: true
       - key: CORS_ALLOWED_ORIGINS
-        value: https://azhar-donation-fund.onrender.com
+        value: https://azhar-fund.onrender.com
       - key: SPRING_JPA_HIBERNATE_DDL_AUTO
         value: update
       - key: SPRING_JPA_SHOW_SQL
