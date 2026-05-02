@@ -36,7 +36,7 @@ public class SecurityConfig {
 
     private final JwtConfig jwtConfig;
 
-    @Value("${cors.allowed-origins:http://localhost:5173}")
+    @Value("${cors.allowed-origins:http://localhost:5173,https://azhaarfuund.netlify.app}")
     private String allowedOrigins;
 
     @Bean
