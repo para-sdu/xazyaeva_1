@@ -61,9 +61,9 @@
 ---
 
 ## 8. Team Members (with ID)
-- Sultangazyyeva Altynay – Frontend Developer  
-- Kystaubay Ayanat – PM 
-- Kraman Zhaniya – Backend Developer  
+- Sultangazyyeva Altynay 230103346– Frontend Developer  
+- Kystaubay Ayanat 230103075 – PM 
+- Kraman Zhaniya 230103077 – Backend Developer  
 
 ---
 
